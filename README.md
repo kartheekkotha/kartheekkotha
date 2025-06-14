@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartheekkotha" alt="kartheekkotha" /></a> </p>
 
-- 🔭 I’m currently working on [Chess AI using Reinforcement Learning](https://github.com/kartheekkotha/AI_chess)
+- 🔭 I’m currently working as a Software Engineer at Chegg Inc
 
-- 🌱 I’m currently learning **about Large Language Models and Transformers**
+- 🌱 I’m currently deep diving into complex ML-DL techniques like **Meta-RL, RL^2, etc**
 
 - 📫 How to reach me **kartheekkotha20041@gmail.com**
 
