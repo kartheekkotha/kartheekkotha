@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartheekkotha" alt="kartheekkotha" /></a> </p>
 
-- 🔭 I’m currently working as a Software Engineer at Chegg Inc
+- 🔭 I’m currently working as a Software Engineer-ML at Chegg Inc
 
 - 🌱 I’m currently deep diving into complex ML-DL techniques like **Meta-RL, RL^2, etc**
 
